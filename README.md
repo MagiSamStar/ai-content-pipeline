@@ -1,4 +1,4 @@
-#Social Media Agent 
+## Social Media Agent 
 
 An experimental LangGraph pipeline for transforming a spiritual reading into
 structured social media content, visual direction, generated imagery, and
