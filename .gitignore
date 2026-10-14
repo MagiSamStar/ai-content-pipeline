@@ -1,0 +1,33 @@
+# Local configuration and credentials
+.env
+.canva_token.json
+
+# Proprietary creative direction
+mystic_samstar_bible.md
+mystic_samstar_brand.md
+visual_reference.md
+creative.md
+**/creative.md
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime and generated media
+outputs/
+readings/
+images/
+/image.png
+
+# Local tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
